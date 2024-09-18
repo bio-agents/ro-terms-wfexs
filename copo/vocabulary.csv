@@ -1,0 +1,23 @@
+term,type,label,description,domain,range
+associated_tol_project,Property,associated_tol_project,"""associated_tol_project""",Sample,string
+biosampleAccession,Property,biosampleAccession,"""biosampleAccession""",Sample,string
+boldAccession,Property,boldAccession,"""boldAccession""",Sample,string
+copo_id,Property,copo_id,"""copo_id""",Sample,string
+copo_profile_title,Property,copo_profile_title,"""copo_profile_title""",Sample,string
+created_by,Property,created_by,"""created_by""",Sample,string
+manifest_id,Property,manifest_id,"""manifest_id""",Sample,string
+,Property,,"""""",Sample,string
+public_name,Property,public_name,"""public_name""",Sample,string
+sampleDerivedFrom,Property,sampleDerivedFrom,"""sampleDerivedFrom""",Sample,string
+SAMPLE_FORMAT,Property,SAMPLE_FORMAT,"""SAMPLE_FORMAT""",Sample,string
+sampleSameAs,Property,sampleSameAs,"""sampleSameAs""",Sample,string
+sampleSymbiontOf,Property,sampleSymbiontOf,"""sampleSymbiontOf""",Sample,string
+sraAccession,Property,sraAccession,"""sraAccession""",Sample,string
+status,Property,status,"""status""",Sample,string
+submissionAccession,Property,submissionAccession,"""submissionAccession""",Sample,string
+time_created,Property,time_created,"""time_created""",Sample,string
+time_updated,Property,time_updated,"""time_updated""",Sample,string
+TISSUE_REMOVED_FROM_BARCODING,Property,TISSUE_REMOVED_FROM_BARCODING,"""TISSUE_REMOVED_FROM_BARCODING""",Sample,string
+title,Property,title,"""Title of a book""",Book,string
+tol_project,Property,tol_project,"""tol_project""",Sample,string
+updated_by,Property,updated_by,"""updated_by""",Sample,string
