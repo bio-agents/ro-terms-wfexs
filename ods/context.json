@@ -1,16 +1,3 @@
-{
-    "@context": [
-        "https://w3id.org/ro/crate/1.1/context",
-        {
-            "Specimen": "https://w3id.org/ro/terms/ods#Specimen",
-            "SpecimenRecord": "https://w3id.org/ro/terms/ods#SpecimenRecord",
-            "authoritative": "https://w3id.org/ro/terms/ods#authoritative",
-            "modified": "https://w3id.org/ro/terms/ods#modified",
-            "midsLevel": "https://w3id.org/ro/terms/ods#midsLevel",
-            "physicalSpecimenId": "https://w3id.org/ro/terms/ods#physicalSpecimenId",
-            "institution": "https://w3id.org/ro/terms/ods#institution",
-            "materialType": "https://w3id.org/ro/terms/ods#materialType",
-            "name": "https://w3id.org/ro/terms/ods#name"
-        }
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7edc8653d4b5ba9bfe72955c8982413ac88a1839c8381cb1286654c9cef5ecd2
+size 739

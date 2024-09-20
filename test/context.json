@@ -1,20 +1,3 @@
-{
-    "@context": [
-        "https://w3id.org/ro/crate/1.1/context",
-        {
-            "TestSuite": "https://w3id.org/ro/terms/test#TestSuite",
-            "TestInstance": "https://w3id.org/ro/terms/test#TestInstance",
-            "TestService": "https://w3id.org/ro/terms/test#TestService",
-            "TestDefinition": "https://w3id.org/ro/terms/test#TestDefinition",
-            "PlanemoEngine": "https://w3id.org/ro/terms/test#PlanemoEngine",
-            "JenkinsService": "https://w3id.org/ro/terms/test#JenkinsService",
-            "TravisService": "https://w3id.org/ro/terms/test#TravisService",
-            "GithubService": "https://w3id.org/ro/terms/test#GithubService",
-            "instance": "https://w3id.org/ro/terms/test#instance",
-            "runsOn": "https://w3id.org/ro/terms/test#runsOn",
-            "resource": "https://w3id.org/ro/terms/test#resource",
-            "definition": "https://w3id.org/ro/terms/test#definition",
-            "engineVersion": "https://w3id.org/ro/terms/test#engineVersion"
-        }
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:628fa525b2e88c12d9138480a0cfac0785d845d4102d5dec3c97e74098223725
+size 1046

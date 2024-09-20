@@ -1,9 +1,3 @@
-{
-    "@context": [
-        "https://w3id.org/ro/crate/1.1/context",
-        {
-            "Book": "https://w3id.org/ro/terms/example#Book",
-            "title": "https://w3id.org/ro/terms/example#title"
-        }
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b434ea551ad7cec12ad1f385040b3644d63b2b10686c5efd50e0e5072f93db36
+size 221

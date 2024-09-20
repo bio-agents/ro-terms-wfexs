@@ -1,8 +1,3 @@
-[
-    "https://w3id.org/ro/crate/1.1/context",
-    {
-        "Person": "https://w3id.org/ro/terms/#Person",
-        "fullName": "https://w3id.org/ro/terms/#fullName",
-        "friend_of": "https://w3id.org/ro/terms/#friend_of"
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a8e98a6fbdebfeb685d56cbfdee04b519ab4b4664e3068fca7bbfc1d40816e9
+size 234

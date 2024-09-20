@@ -1,10 +1,3 @@
-{
-    "@context": [
-        "https://w3id.org/ro/crate/1.1/context",
-        {
-            "syntheticOutput": "https://w3id.org/ro/terms/wfexs#syntheticOutput",
-            "globPattern": "https://w3id.org/ro/terms/wfexs#globPattern",
-            "filledFrom": "https://w3id.org/ro/terms/wfexs#filledFrom"
-        }
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f00fd893efd26e5b0d52ebfab086c7328b17e6a08f52f72c11d4ccdaef9ac6e
+size 323
